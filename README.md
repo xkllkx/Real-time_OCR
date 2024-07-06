@@ -1,8 +1,7 @@
 # Real-time OCR
 This repository will capture screenshots of the selected area at regular intervals and perform OCR to extract target data.
 
-## Derivative side-project
-[Tradingveiw_data_scraper](<https://github.com/xkllkx/Tradingveiw_data_scraper>)
+# Derivative side-project [Tradingveiw_data_scraper](<https://github.com/xkllkx/Tradingveiw_data_scraper>)
 
 # Installation
 - Python requirements
