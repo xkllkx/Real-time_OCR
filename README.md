@@ -1,5 +1,5 @@
 # Real-time OCR
-This repository will capture screenshots of the selected area at regular intervals and perform OCR to extract target data.
+This repository will capture screenshots of the selected area on the website and perform OCR to extract target data.
 
 # Derivative side-project [Tradingveiw_data_scraper](<https://github.com/xkllkx/Tradingveiw_data_scraper>)
 
